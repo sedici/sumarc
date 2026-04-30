@@ -1,0 +1,19 @@
+[submodule "jatsParser"]
+	path = jatsParser
+	url = git@github.com:sedici/JATSParserPlugin.git
+	branch = stable-3_4
+
+[submodule "docxConverter"]
+	path = docxConverter
+	url = git@github.com:sedici/docxConverter.git
+	branch = stable-3_4_0
+
+[submodule "texture"]
+	path = texture
+	url = git@github.com:sedici/texture.git
+	branch = stable-3_4_0
+
+[submodule "XMLMetadataBuilder"]
+	path = XMLMetadataBuilder
+	url = git@github.com:sedici/OJS-JATS-Completer.git
+	branch = stable-3_4
